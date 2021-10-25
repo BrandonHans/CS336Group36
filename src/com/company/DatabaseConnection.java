@@ -30,4 +30,5 @@ public class DatabaseConnection {
     }
 
     //Possibly make some more methods within this class that query/select important tables that we need often??
+    //This shit aint workin lmao maybe we dont do this
 }
